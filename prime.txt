@@ -1,0 +1,23 @@
+let numbers = 1...100
+for number in numbers {
+        if (number % 2 == 0) {
+            println(number)
+        } else if (number % 3 == 0) {
+            println(number)
+        } else if (number % 4 == 0) {
+            println(number)
+        } else if (number % 5 == 0) {
+            println(number)
+        } else if (number % 6 == 0) {
+            println(number)
+        } else if (number % 7 == 0) {
+            println(number)
+        } else if (number % 8 == 0) {
+            println(number)
+        } else if (number % 9 == 0) {
+            println(number)
+        } else {
+            println("Prime")
+    }
+}
+}
